@@ -28,7 +28,8 @@ fun main()
 }
 
 
-Output : 
+Output : ![image](https://user-images.githubusercontent.com/93566991/186707464-0d28833b-a897-437a-b543-ab5fbe475a21.png)
+
  
  
 
@@ -52,7 +53,8 @@ fun main(){
 }
 
 Output : 
- 
+ ![image](https://user-images.githubusercontent.com/93566991/186707550-4f12c86e-b2be-440d-9930-69c5a3d64d64.png)
+
  
  
 3. Scan student’s information and display all the data.
@@ -100,25 +102,11 @@ fun main() {
     println("University Name: $UniName")
 }
 
-
-
-
-
-
-
-
-
-
 Output : 
  
+ ![image](https://user-images.githubusercontent.com/93566991/186707685-ba7e0c2e-d8b0-4c0d-a714-1bbdcda09811.png)
+
  
-
-
-
-
-
-
-
 4.	Find the number is odd or even by using Control Flow inside println() method. 
 Answer : 
  
@@ -135,7 +123,8 @@ fun main(){
  
 Output : 
  
- 
+ ![image](https://user-images.githubusercontent.com/93566991/186707748-b8227ec5-b5ef-4523-a6f2-d4d6b0788900.png)
+
  
 5.	Display month name using When 
 Answer : 
@@ -163,6 +152,8 @@ fun main() {
 
 Output : 
  
+![image](https://user-images.githubusercontent.com/93566991/186707800-6da443fb-59b9-4a04-97c4-23d8a0a517f6.png)
+![image](https://user-images.githubusercontent.com/93566991/186707828-5b6c9ae1-6d70-49d0-88cb-aa77515d2558.png)
  
  
  
@@ -179,6 +170,7 @@ fun main(){
     calc(111,2222,-222)
 }
 Output :
+![image](https://user-images.githubusercontent.com/93566991/186707884-0d37d5ad-f907-4f8c-aa5a-2028a32b4ce8.png)
 
   
 
@@ -207,7 +199,8 @@ fun main() {
 
 Output : 
  
- 
+ ![image](https://user-images.githubusercontent.com/93566991/186707946-c96559b9-6c35-4486-9009-41f8f7122e18.png)
+
  
 8. Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function 
 Answer : 
@@ -280,7 +273,8 @@ fun main() {
 
 Output : 
  
- 
+ ![image](https://user-images.githubusercontent.com/93566991/186708015-01539c86-584e-4979-ae40-4a8052b3da76.png)
+
   
  
 9.	Find the max number from ArrayList. 
@@ -303,6 +297,7 @@ fun main() {
 Output : 
  
  
+![image](https://user-images.githubusercontent.com/93566991/186708067-633cee0c-f32d-4e7b-b706-f2ff8745f978.png)
 
  
 10.	Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
@@ -366,7 +361,8 @@ class Car(private val model: String, private val owner: String, private val mile
 Output : 
 
  
- 
+ ![image](https://user-images.githubusercontent.com/93566991/186708145-1e225aa3-35df-4ddb-b71a-20620ed68e6b.png)
+
  
 
 
@@ -456,11 +452,8 @@ fun main() {
  
 Output : 
 
- 
- 
- 
-
-
+![image](https://user-images.githubusercontent.com/93566991/186708236-40fa0238-3299-4b8c-93ea-f5b1d1fbc177.png)
+![image](https://user-images.githubusercontent.com/93566991/186708268-2ff716c9-5b26-4f6d-8147-5f2a776d8fa3.png)
 
 
  EXERCISES: KOTLIN PROGRAMS 
@@ -495,6 +488,7 @@ fun main() {
 }
 
 OUTPUT:
- 
+ ![image](https://user-images.githubusercontent.com/93566991/186708326-90afbd14-54dd-45c2-ab51-3028ffa4ebc0.png)
+
 
 
